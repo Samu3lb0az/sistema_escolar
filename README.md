@@ -72,3 +72,13 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento e executar o
     ```
 
 O Metro Bundler abrirá automaticamente no navegador, permitindo escanear o QR Code com o aplicativo Expo Go (Android) ou com o aplicativo Câmera (iOS) para executar o app diretamente em seu dispositivo móvel.
+
+## 🧩 Desenvolvedores
+
+- **Samuel Boaz**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-boaz-gonçalves)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samu3lb0az)
+
+- **Andrey Montibeller**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-montibeller/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreyMonti)
