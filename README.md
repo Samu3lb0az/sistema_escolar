@@ -33,12 +33,12 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento e executar o
 
 1.  Primeiro, clone o repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone https://github.com/Samu3lb0az/sistema_escolar.git
     ```
 
 2.  Entre na pasta do projeto:
     ```bash
-    cd seu-repositorio
+    cd clone-repositorio
     ```
 
 3.  Em seguida, instale as dependências do projeto:
